@@ -1,0 +1,20 @@
+{
+    "name": "latansamashiro/fingerprint",
+    "description": "Laravel Package for Fingerprint Solution x100c, x601 etc",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Latansamashiro\\Fingerprint\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Moch Diki Widianto",
+            "email": "dikiwidia@live.com"
+        }
+    ],
+    "require": {
+        "metalback/tad-php": "^0.4.2"
+    }
+}
