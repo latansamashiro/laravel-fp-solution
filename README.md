@@ -8,7 +8,7 @@ To install with [Composer](https://getcomposer.org/), simply require the
 latest version of this package.
 
 ```bash
-composer require latansamashiro/laravel-fp-solution
+composer require latansamashiro/fingerprint
 ```
 
 Make sure that the autoload file from Composer is loaded.
